@@ -1,0 +1,1 @@
+# How-to-get-data-from-outside-API-in-Wagtail-CMS-project
